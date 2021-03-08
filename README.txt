@@ -8,6 +8,4 @@ PC: Unzip the mod and put the folder named "game" from the mod in your "SB-0.2" 
 MAC: Unzip the mod -> Right-click your "SunBreed" app -> Click "Show Package Contents" -> Open the "Contents" then "Resources" folders -> Hold the Option key and drag the folder named "game" from the mod to the "autorun" folder -> Click merge
 
 Features:
-This mod adds an in-game walkthrough for the important choices in the game Sun Breed!
 I've added a scene replay gallery to the main menu with all gallery scenes unlocked and viewable.
-I've currently made a few improvements to some of the events in the game so that you will be able to see several missable scenes. Read the full list of improvements below to see all of the changes.
